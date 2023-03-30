@@ -1,0 +1,14 @@
+{
+  "name": "test-webserver",
+  "version": "0.0.1",
+  "description": "Simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "author": "Sir-Lancelot27",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
